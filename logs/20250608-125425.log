@@ -1,0 +1,59 @@
+INFO    : Building target html
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Generating any needed assets.
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\pretext-enhanced-source.xsl
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\output\web.
+INFO    : discovering source file's directory name: D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext
+INFO    : verifying and expanding input directory: D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\../generated-assets
+INFO    : input directory expanded to absolute path: D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\generated-assets
+INFO    : verifying and expanding input directory: D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\../assets
+INFO    : input directory expanded to absolute path: D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\assets
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\utilities\report-publisher-variables.xsl
+INFO    : Downloading rs services file from https://runestone.academy/cdn/runestone/latest/webpack_static_imports.xml.
+INFO    : Runestone Services via online CDN query: version 7.7.5
+INFO    : Downloading Runestone Services, version 7.7.5
+INFO    : Extracting Runestone Services from archive file
+INFO    : Building custom css theme: theme-default-modern
+INFO    : converting D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx to HTML in C:\Users\Hunter\AppData\Local\Temp\ptx-c37kzbma
+INFO    : XSL conversion of D:\School\SummerWork\books\Experiment1-Non-Programmers-UVA\pretext\toctree.ptx by C:\Users\Hunter\.ptx\2.18.3\core\xsl\pretext-html.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+INFO    : successful application of C:\Users\Hunter\.ptx\2.18.3\core\xsl\pretext-html.xsl
+INFO    : Removing temporary directory C:\Users\Hunter\AppData\Local\Temp\ptx-c37kzbma
+INFO    : Removing temporary directory C:\Users\Hunter\AppData\Local\Temp\ptx-2oo9f9dw
+INFO    : 
+Success! Run `pretext view html` to see the results.
+
+INFO    : 
