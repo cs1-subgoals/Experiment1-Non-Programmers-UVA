@@ -2,9 +2,9 @@
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   
-  <book xml:id="Subgoals-Experiment1-NonPgmmers">
+  <book xml:id="Subgoals-Experiment1-NonPgmmers-UVA">
     <docinfo>
-      <document-id>nonpgmmers</document-id>
+      <document-id>Experiment1-Non-Programmers-UVA</document-id>
     </docinfo>
     <title>Non Programmer Experiment</title>
 
