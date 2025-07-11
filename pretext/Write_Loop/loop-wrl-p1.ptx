@@ -15,14 +15,13 @@
                 <block order="1">
                     <cline>for i in range( 2, 101): </cline>
                 </block><block order="2">
-                    <cline>   is_prime = False</cline>
+                    <cline>   is_prime = True</cline>
                 </block><block order="3">
                     <cline>   for j in range( 2, i):</cline>
                 </block><block order="4">
-                    <cline>      if i % j == 0:</cline>
-                    
+                    <cline>      if i % j == 0:</cline>             
                 </block><block order="5">
-                    <cline>         is_prime = True</cline>
+                    <cline>         is_prime = False</cline>
                 </block><block order="6">
                     <cline>   if is_prime:</cline>
                 </block><block order="7">
