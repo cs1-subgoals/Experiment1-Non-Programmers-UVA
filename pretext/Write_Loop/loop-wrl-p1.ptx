@@ -9,7 +9,7 @@
                     
                         
             <statement>
-                <p>Fill in the blanks in the following code to create a program that will print the prime numbers between 1 and 100 (inclusive).</p>
+                <p>Put the following code blocks in the correct order to create a program that will print the prime numbers between 1 and 100 (inclusive).</p>
             </statement>
             <blocks>
                 <block order="1">
